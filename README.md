@@ -55,7 +55,7 @@ This project simulates a real-world expense management system where users can:
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/anjalimaddireddy/smart-expense-tracker.git
+git clone https://github.com/anjalimaddireddy/smartexpensetracker.git
 ```
 
 ### 2. Setup Database
