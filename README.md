@@ -56,6 +56,7 @@ This project simulates a real-world expense management system where users can:
 ### 1. Clone Repository
 ```bash
 git clone https://github.com/anjalimaddireddy/smart-expense-tracker.git
+```
 
 ### 2. Setup Database
 
@@ -71,7 +72,7 @@ advanced_queries.sql
 pip install -r requirements.txt
 ```
 
-### 4. Run Application
+ ### 4. Run Application
 
 ```bash
 streamlit run app.py
