@@ -61,11 +61,9 @@ git clone https://github.com/anjalimaddireddy/smart-expense-tracker.git
 
 Run SQL files in order:
 
-```bash
 schema.sql
 sample_data.sql
 advanced_queries.sql
-```
 
 ### 3. Install Dependencies
 
